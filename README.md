@@ -1,4 +1,4 @@
-# Serverless HelloeWorld
+# 🤖 Serverless HelloeWorld
 
 This repo demonstrate how to deploy a simple node.js(express) server to AWS Lambda.
 
